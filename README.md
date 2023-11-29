@@ -1,5 +1,5 @@
 # tc1031
-####Links a videos
+#### Links a videos
   #### Problema 1:
    #### link: : https://drive.google.com/file/d/10yGH9RVue0e5ZdW3_MLRWWILdKsHQjx9/view?usp=sharing
    #### link a leet code: https://leetcode.com/problems/missing-number/submissions/1106961101/
